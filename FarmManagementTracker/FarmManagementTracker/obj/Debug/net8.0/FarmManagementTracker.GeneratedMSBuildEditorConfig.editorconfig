@@ -1,0 +1,169 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FarmManagementTracker
+build_property.RootNamespace = FarmManagementTracker
+build_property.ProjectDir = D:\Users\David\CVTC\NETASP\FarmManagementTracker3_dpiggott1\FarmManagementTracker\FarmManagementTracker\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Users\David\CVTC\NETASP\FarmManagementTracker3_dpiggott1\FarmManagementTracker\FarmManagementTracker
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Admin/ResetRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVzZXRSZXF1ZXN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Animal/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Animal/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Animal/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Animal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/PasswordRequest/Request.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc3dvcmRSZXF1ZXN0XFJlcXVlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Supply/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGx5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Supply/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGx5XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Supply/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGx5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Supply/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGx5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Task/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Task/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Task/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Task/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Vaccine/AllVaccines.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjY2luZVxBbGxWYWNjaW5lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Vaccine/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjY2luZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Vaccine/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjY2luZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Vaccine/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjY2luZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Vaccine/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjY2luZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Users/David/CVTC/NETASP/FarmManagementTracker3_dpiggott1/FarmManagementTracker/FarmManagementTracker/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9zer0gsyx8

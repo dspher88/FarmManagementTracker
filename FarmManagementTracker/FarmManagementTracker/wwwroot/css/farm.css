@@ -1,0 +1,66 @@
+﻿body {
+    background-color: #1c1c1c;
+    color: #f1f1f1;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h2 {
+    color: #9dd29f;
+    margin-bottom: 20px;
+}
+
+.table {
+    border: 1px solid #444;
+}
+
+.table th {
+    background-color: #2f4f2f;
+    color: #fff;
+}
+
+.table td {
+    background-color: #333;
+    color: #f1f1f1; 
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+a {
+    color: #9dd29f;
+}
+
+.btn-warning {
+    color: #000;
+    background-color: #ffc107;
+    border: none;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #dc3545;
+    border: none;
+}
+
+.btn-warning:hover,
+.btn-danger:hover {
+    opacity: 0.85;
+}
+
+.btn {
+    transition: background-color 0.2s ease, opacity 0.2s ease;
+}
+
+::placeholder {
+    color: #66bb6a;
+    opacity: 1;
+}
+
+input.form-control {
+    background-color: #222;
+    color: #fff;
+    border-color: #66bb6a;
+}

@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|d:\\users\\david\\cvtc\\netasp\\farmmanagementtracker3_dpiggott1\\farmmanagementtracker\\farmmanagementtracker\\models\\viewmodels\\userroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|solutionrelative:farmmanagementtracker\\models\\viewmodels\\userroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|d:\\users\\david\\cvtc\\netasp\\farmmanagementtracker3_dpiggott1\\farmmanagementtracker\\farmmanagementtracker\\models\\passwordresetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|solutionrelative:farmmanagementtracker\\models\\passwordresetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|d:\\users\\david\\cvtc\\netasp\\farmmanagementtracker3_dpiggott1\\farmmanagementtracker\\farmmanagementtracker\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|solutionrelative:farmmanagementtracker\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|d:\\users\\david\\cvtc\\netasp\\farmmanagementtracker3_dpiggott1\\farmmanagementtracker\\farmmanagementtracker\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|solutionrelative:farmmanagementtracker\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|d:\\users\\david\\cvtc\\netasp\\farmmanagementtracker3_dpiggott1\\farmmanagementtracker\\farmmanagementtracker\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|solutionrelative:farmmanagementtracker\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|d:\\users\\david\\cvtc\\netasp\\farmmanagementtracker3_dpiggott1\\farmmanagementtracker\\farmmanagementtracker\\models\\farmtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|solutionrelative:farmmanagementtracker\\models\\farmtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|d:\\users\\david\\cvtc\\netasp\\farmmanagementtracker3_dpiggott1\\farmmanagementtracker\\farmmanagementtracker\\models\\supplyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|solutionrelative:farmmanagementtracker\\models\\supplyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|d:\\users\\david\\cvtc\\netasp\\farmmanagementtracker3_dpiggott1\\farmmanagementtracker\\farmmanagementtracker\\models\\vaccinationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|solutionrelative:farmmanagementtracker\\models\\vaccinationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|d:\\users\\david\\cvtc\\netasp\\farmmanagementtracker3_dpiggott1\\farmmanagementtracker\\farmmanagementtracker\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|solutionrelative:farmmanagementtracker\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|d:\\users\\david\\cvtc\\netasp\\farmmanagementtracker3_dpiggott1\\farmmanagementtracker\\farmmanagementtracker\\models\\farmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|solutionrelative:farmmanagementtracker\\models\\farmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|d:\\users\\david\\cvtc\\netasp\\farmmanagementtracker3_dpiggott1\\farmmanagementtracker\\farmmanagementtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACEFE3D-2781-46CA-B8FA-2BD1660B05C7}|FarmManagementTracker\\FarmManagementTracker.csproj|solutionrelative:farmmanagementtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{244df7ea-d757-4b52-b92c-efd2d3402c91}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRoleViewModel.cs",
+              "DocumentMoniker": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Models\\ViewModels\\UserRoleViewModel.cs",
+              "RelativeDocumentMoniker": "FarmManagementTracker\\Models\\ViewModels\\UserRoleViewModel.cs",
+              "ToolTip": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Models\\ViewModels\\UserRoleViewModel.cs",
+              "RelativeToolTip": "FarmManagementTracker\\Models\\ViewModels\\UserRoleViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:08:39.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "FarmManagementTracker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "FarmManagementTracker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:07:58.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "FarmManagementTracker\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "FarmManagementTracker\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:07:53.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "FarmManagementTracker\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "FarmManagementTracker\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:07:47.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordResetRequest.cs",
+              "DocumentMoniker": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Models\\PasswordResetRequest.cs",
+              "RelativeDocumentMoniker": "FarmManagementTracker\\Models\\PasswordResetRequest.cs",
+              "ToolTip": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Models\\PasswordResetRequest.cs",
+              "RelativeToolTip": "FarmManagementTracker\\Models\\PasswordResetRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:06:16.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FarmTask.cs",
+              "DocumentMoniker": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Models\\FarmTask.cs",
+              "RelativeDocumentMoniker": "FarmManagementTracker\\Models\\FarmTask.cs",
+              "ToolTip": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Models\\FarmTask.cs",
+              "RelativeToolTip": "FarmManagementTracker\\Models\\FarmTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:06:12.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SupplyItem.cs",
+              "DocumentMoniker": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Models\\SupplyItem.cs",
+              "RelativeDocumentMoniker": "FarmManagementTracker\\Models\\SupplyItem.cs",
+              "ToolTip": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Models\\SupplyItem.cs",
+              "RelativeToolTip": "FarmManagementTracker\\Models\\SupplyItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:06:09.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VaccinationRecord.cs",
+              "DocumentMoniker": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Models\\VaccinationRecord.cs",
+              "RelativeDocumentMoniker": "FarmManagementTracker\\Models\\VaccinationRecord.cs",
+              "ToolTip": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Models\\VaccinationRecord.cs",
+              "RelativeToolTip": "FarmManagementTracker\\Models\\VaccinationRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:06:07.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "FarmManagementTracker\\Models\\Animal.cs",
+              "ToolTip": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Models\\Animal.cs",
+              "RelativeToolTip": "FarmManagementTracker\\Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:06:05.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FarmDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Models\\FarmDbContext.cs",
+              "RelativeDocumentMoniker": "FarmManagementTracker\\Models\\FarmDbContext.cs",
+              "ToolTip": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Models\\FarmDbContext.cs",
+              "RelativeToolTip": "FarmManagementTracker\\Models\\FarmDbContext.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:05:46.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Program.cs",
+              "RelativeDocumentMoniker": "FarmManagementTracker\\Program.cs",
+              "ToolTip": "D:\\Users\\David\\CVTC\\NETASP\\FarmManagementTracker3_dpiggott1\\FarmManagementTracker\\FarmManagementTracker\\Program.cs",
+              "RelativeToolTip": "FarmManagementTracker\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:05:01.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

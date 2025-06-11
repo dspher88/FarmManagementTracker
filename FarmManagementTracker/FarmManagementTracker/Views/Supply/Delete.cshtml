@@ -1,0 +1,19 @@
+﻿@model FarmManagementTracker.Models.SupplyItem
+
+@{
+    ViewData["Title"] = "Delete Supply";
+}
+
+<h2 class="text-danger">Delete Supply Item</h2>
+
+<h4>Are you sure you want to delete this item?</h4>
+<div>
+    <strong>@Model.Name</strong> — @Model.Quantity @Model.Unit
+</div>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger mt-3">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary mt-3">Cancel</a>
+</form>
+

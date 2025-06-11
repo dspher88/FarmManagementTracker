@@ -1,0 +1,77 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+    var upcomingVaccines = ViewBag.UpcomingVaccines as List<FarmManagementTracker.Models.ViewModels.VaccinationReminder>;
+    var lowSupplies = ViewBag.LowSupplies as List<FarmManagementTracker.Models.SupplyItem>;
+    var overdueTasks = ViewBag.OverdueTasks as List<FarmManagementTracker.Models.FarmTask>;
+}
+
+<div class="text-center">
+    <h1 class="display-4" style="color: #9dd29f;">Welcome to Farm Management Tracker</h1>
+    <p class="lead" style="color: #ccc;">
+        Your personal dashboard for managing livestock, feed schedules, and recurring farm tasks.
+    </p>
+
+    <div style="margin-top: 30px;">
+        <a class="btn btn-success btn-lg" href="/Animal">🐔 View Animal Records</a>
+    </div>
+
+    <hr style="margin: 50px 0; border-top: 1px solid #666;" />
+
+    <h4 style="color: #9dd29f;">🐄 Animal Summary</h4>
+    <p style="color: #ddd;">
+        You currently have <strong>@ViewBag.TotalAnimals</strong> active animals across <strong>@ViewBag.UniqueTypes</strong> types.
+    </p>
+
+    <h4 style="color: #9dd29f; margin-top: 40px;">💉 Upcoming Vaccinations</h4>
+    @if (upcomingVaccines != null && upcomingVaccines.Any())
+    {
+        <ul style="color: #eee;">
+            @foreach (var v in upcomingVaccines)
+            {
+                <li><strong>@v.AnimalName</strong> – @v.VaccineName due on @(((DateTime)v.DueDate).ToShortDateString())</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p style="color: #aaa;">No upcoming vaccinations in the next 30 days.</p>
+    }
+
+    <h4 style="color: #9dd29f; margin-top: 40px;">📉 Low Supplies</h4>
+    @if (lowSupplies != null && lowSupplies.Any())
+    {
+        <ul style="color: #eee;">
+            @foreach (var item in lowSupplies)
+            {
+                <li><strong>@item.Name</strong> – @item.Quantity @item.Unit remaining</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p style="color: #aaa;">All supplies are sufficiently stocked.</p>
+    }
+
+    <h4 style="color: #9dd29f; margin-top: 40px;">⏰ Overdue Tasks</h4>
+    @if (overdueTasks != null && overdueTasks.Any())
+    {
+        <ul style="color: #eee;">
+            @foreach (var task in overdueTasks)
+            {
+                <li><strong>@task.TaskName</strong> – Was due on @task.NextDueDate.ToShortDateString()</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p style="color: #aaa;">No overdue tasks.</p>
+    }
+
+    <div style="margin-top: 60px;">
+        <img src="https://cdn.pixabay.com/photo/2020/08/20/16/07/chickens-5503283_1280.jpg"
+             alt="Farm animals" style="max-width: 550px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.5);" />
+        <p style="color: #aaa; margin-top: 10px;">@ViewBag.Quote</p>
+    </div>
+</div>
+
+

@@ -1,0 +1,38 @@
+﻿@model FarmManagementTracker.Models.VaccinationRecord
+@{
+    ViewData["Title"] = "Add Vaccination";
+}
+
+<h2>Add Vaccination for Animal ID @ViewBag.AnimalId</h2>
+
+<form asp-action="Create">
+    <input type="hidden" asp-for="AnimalId" value="@ViewBag.AnimalId" />
+
+    <div class="mb-3">
+        <label asp-for="VaccineName" class="form-label"></label>
+        <input asp-for="VaccineName" class="form-control" />
+        <span asp-validation-for="VaccineName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="DateGiven" class="form-label"></label>
+        <input asp-for="DateGiven" type="date" class="form-control" />
+        <span asp-validation-for="DateGiven" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="NextDueDate" class="form-label"></label>
+        <input asp-for="NextDueDate" type="date" class="form-control" />
+        <span asp-validation-for="NextDueDate" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Notes" class="form-label"></label>
+        <textarea asp-for="Notes" class="form-control"></textarea>
+        <span asp-validation-for="Notes" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="Index" asp-route-animalId="@ViewBag.AnimalId" class="btn btn-secondary">Cancel</a>
+</form>
+

@@ -1,0 +1,62 @@
+﻿@model List<FarmManagementTracker.Models.PasswordResetRequest>
+@{
+    ViewData["Title"] = "Password Reset Requests";
+}
+
+<h2 class="text-success">Password Reset Requests</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">No reset requests at this time.</div>
+}
+else
+{
+    <table class="table table-dark table-striped">
+        <thead>
+            <tr>
+                <th>Username</th>
+                <th>Requested At</th>
+                <th>Status</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var request in Model)
+            {
+                <tr>
+                    <td>@request.Username</td>
+                    <td>@request.RequestedAt.ToString("g")</td>
+                    <td>
+                        @if (request.IsResolved)
+                        {
+                            <span class="badge bg-success">Resolved</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-warning text-dark">Pending</span>
+                        }
+                    </td>
+                    <td>
+                        @if (!request.IsResolved)
+                        {
+                            <form asp-controller="Admin" asp-action="ResetUserPassword" method="post" class="d-flex flex-column flex-md-row gap-2">
+                                <input type="hidden" name="requestId" value="@request.Id" />
+                                <input type="text" name="newPassword" placeholder="New Password" class="form-control" required />
+                                <input type="text" name="notes" placeholder="Resolution notes (e.g. Texted user)" class="form-control" />
+                                <button type="submit" class="btn btn-warning">Reset</button>
+                            </form>
+                        }
+                        else
+                        {
+                            <span class="text-muted">@request.ResolutionNotes</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
+
+
